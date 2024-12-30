@@ -2,7 +2,8 @@
 
 ## 📝 **Project Description**
 
-This project explores how to write effective and appropriate alternative text (alt text) for images to ensure they are accessible to users with visual impairments. By adding meaningful alt text, this project complies with **WAVE accessibility tests** and enhances compatibility with screen readers, promoting inclusivity and usability.
+
+This project ensures images are accessible by using meaningful alt text, meeting WAVE accessibility tests and enhancing screen reader compatibility.
 
 <br>
 
